@@ -36,7 +36,7 @@ laboratorios-calculo-2026-2/
 ├── colab-sesiones/   # Notebooks de las sesiones de cada laboratorio
 ├── tarea-puente/     # Notebooks de las tareas puente
 ├── bitacoras/        # Bitácoras en PDF
-└── informes/         # Informes escritos en PDF
+├── informes/         # Informes escritos en PDF
 └── datos/            # Bases de datos en CSV
 ```
 
